@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1iyAOgAB4chrLmTDgNsWyVRrrGXk0OYme">
-</p>
  
  ### :vulcan_salute: Hi there, good to see you here!:grinning:
 
