@@ -45,4 +45,4 @@ If you want to know more about me, just go directly to [My Personal Portfolio](h
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farancibiat&theme=gruvbox&hide=dockerfile,mako,shell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farancibiat&theme=gruvbox&hide=dockerfile,mako,shell&layout=compact&langs_count=8))](https://github.com/anuraghazra/github-readme-stats)
